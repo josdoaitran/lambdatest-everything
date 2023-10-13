@@ -1,2 +1,7 @@
 # lambdatest-everything
-https://www.lambdatest.com
+
+- Official site: https://www.lambdatest.com
+## lambdatest Services:
+- Devie Cloud service
+- Testing Intelligent
+  
